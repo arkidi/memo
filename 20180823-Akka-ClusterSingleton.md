@@ -2,6 +2,7 @@
 
 ![Cluster-Singleton-Manager](https://developer.lightbend.com/guides/akka-distributed-workers-scala/images/singleton-manager.png)
 
+
 ###Dependency
 To use Cluster Singleton, you must add the following dependency in your project:
 > 클러스터 싱글톤을 사용하기 위해서 다음과 같이 프로젝트에 의존성을 추가해야합니다.
