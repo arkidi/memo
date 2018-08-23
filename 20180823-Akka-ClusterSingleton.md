@@ -2,8 +2,8 @@
 
 ![Cluster-Singleton-Manager](https://developer.lightbend.com/guides/akka-distributed-workers-scala/images/singleton-manager.png)
 
-
 ###Dependency
+
 To use Cluster Singleton, you must add the following dependency in your project:
 > 클러스터 싱글톤을 사용하기 위해서 다음과 같이 프로젝트에 의존성을 추가해야합니다.
 
@@ -17,6 +17,7 @@ Maven
 ```
 
 ###Introduction
+
 For some use cases it is convenient and sometimes also mandatory to ensure that you have exactly one actor of a certain type running somewhere in the cluster.
 > 일부 유스 케이스에서 클러스터 어딘가에서 실행중인 특정 유형의 액터가 정확히 하나만 가지는지 확인하는 것은 편리하고 때로는 필수적입니다.
 
