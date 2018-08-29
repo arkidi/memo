@@ -236,3 +236,5 @@ sbt "runMain sample.cluster.stats.StatsSampleClientMain"
 
 sbt "runMain sample.cluster.stats.StatsSampleMain 0"
 ```
+
+![StatsSampleMain](https://github.com/arkidi/memo/blob/master/img/20180829-Akka-RouterExample-StatsSampleMain.png?raw=true)
